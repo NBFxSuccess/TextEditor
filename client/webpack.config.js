@@ -20,15 +20,15 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'TODOs List'
+        title: 'Text Editor'
       }),
       new InjectManifest({
         swSrc: './src-sw.js',
         swDest: 'src-sw.js'
       }),
       new WebpackPwaManifest({
-        name: 'TODOs',
-        short_name: 'TODOs',
+        name: 'Editor',
+        short_name: 'Editor',
         description: 'Keep track of important tasks!',
         background_color: '#7eb4e2',
         theme_color: '#7eb4e2',
