@@ -11,7 +11,7 @@ Progressive web application utilizing Express, Node, IndexedDB, and Webpack. Tra
 
 * [Installation](#installation)
 
-* [Usage](#usage)
+* [Screenshot](#screenshot)
 
 * [License](#license)
 
@@ -28,8 +28,8 @@ npm i
 ```
 
 
-## Usage
-SCREEN CAPTURES HERE
+## Screenshot
+![Editor](https://user-images.githubusercontent.com/98627133/170608665-ef7cdc88-572a-48b7-ace8-4a70db1a1a85.png)
 
 
 ## License
